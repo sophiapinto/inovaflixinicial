@@ -32,13 +32,27 @@
       "cor": "#00C86F",
       "link_extra": {
         "text": "Projeto do Eixo Educação",
-        "url": "https://www.youtube.com/watch?v=iMPq1OTRdv4"
+        "url": "https://youtu.be/tAGgjGE8VTc"
       },
       "videos": [
+        {
+          "titulo": "Maratoninha Maker em Timon MA",
+          "url": "https://youtu.be/iMPq1OTRdv4"
+        },
+        {
+          "titulo": "Piloto Maratoninha Maker Virtual",
+          "url": "https://youtu.be/tAGgjGE8VTc"
+        },
+        {
+          "titulo": "Evento Maratoninha Maker ",
+          "url": "https://youtu.be/ClWWe7DxoCA"
+        },
         {
           "titulo": "Maratoninha Maker em Timon | Facebook",
           "url": "https://www.facebook.com/sectima/videos/747134305766405/?t=0"
         }
+
+      
       ]
     },
     {
@@ -86,10 +100,6 @@
         {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "A rede social",
-          "url": "https://youtu.be/lB95KLmpLR4"
         },
         {
           "titulo": "A rede social",
