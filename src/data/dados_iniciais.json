@@ -1,8 +1,7 @@
 {
   "categorias": [
-    {
+        {
       "titulo": "Inova Maranhão",
-      "link": "https://www.inova.ma.gov.br/",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Conhecendo nosso canal do YouTube",
@@ -24,7 +23,7 @@
         {
           "titulo": "INOVA MARANHÃO | CONSTRUINDO A SUA SOLUÇÃO",
           "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        }    
+        }
       ]
     },
     {
@@ -168,7 +167,11 @@
         {
           "titulo": "Arduino para crianças",
           "url": "https://www.youtube.com/watch?v=xYlsopsAwRw&ab_channel=CanaldoVini"
-        },   
+        },
+        {
+          "titulo": "Playlist brinquedos inteligentes com arduino",
+          "url": "https://www.youtube.com/watch?v=3KcG4L928-Y&list=PL7CjOZ3q8fMeXU5zBJgngxxiFKaZzgFk-"
+        }    
         {
           "titulo": "Curso de Arduino para Iniciantes - Primeiros Passos",
           "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMe3KCjvLPid3xD3VvOUPdvU"
@@ -180,11 +183,7 @@
         {
           "titulo": "Arduino do Básico ao Intermediário",
           "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi"
-        },
-        {
-          "titulo": "Playlist brinquedos inteligentes com arduino",
-          "url": "https://www.youtube.com/watch?v=3KcG4L928-Y&list=PL7CjOZ3q8fMeXU5zBJgngxxiFKaZzgFk-"
-        }    
+        }
       ]
     }
   ]
