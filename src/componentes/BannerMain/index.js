@@ -9,7 +9,7 @@ export default function MainWrapper() {
 			<Container.Item>
 				<Container.Title>
           			<Container.Span>Seja bem-vindx a plataforma de streaming teste da Inova Maranhão{' '}</Container.Span>
-					<Container.Span>Eixo Educação</Container.Span>
+					<Container.Span>Eixo Educação.</Container.Span>
 				</Container.Title>
 			</Container.Item>
 
