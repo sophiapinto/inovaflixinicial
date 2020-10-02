@@ -1,7 +1,8 @@
 {
   "categorias": [
-     {
+    {
       "titulo": "Inova Maranhão",
+      "link": "https://www.inova.ma.gov.br/",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Conhecendo nosso canal do YouTube",
@@ -23,7 +24,7 @@
         {
           "titulo": "INOVA MARANHÃO | CONSTRUINDO A SUA SOLUÇÃO",
           "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        }
+        }      
       ]
     },
     {
@@ -35,7 +36,7 @@
       },
       "videos": [
         {
-          "titulo": "Maratoninha Maker em Timon MA",
+          "titulo": "Maratoninha Maker em Timon",
           "url": "https://youtu.be/iMPq1OTRdv4"
         },
         {
@@ -43,13 +44,13 @@
           "url": "https://youtu.be/tAGgjGE8VTc"
         },
         {
-          "titulo": "Evento Maratoninha Maker ",
+          "titulo": "Evento Maratoninha Maker",
           "url": "https://youtu.be/ClWWe7DxoCA"
         },
         {
           "titulo": "Maratoninha Maker em Timon | Facebook",
           "url": "https://www.facebook.com/sectima/videos/747134305766405/?t=0"
-        }    
+        }
       ]
     },
     {
@@ -73,19 +74,19 @@
           "url": "https://youtu.be/39OHcCpt0Ds"
         },
         {
-          "titulo": "A história da Boston Dynamics e seus robôs assustadores – TecMundo",
-          "url": "https://youtu.be/ApcJva6NWjo"
-        },
-        {
           "titulo": "Conheça o Zaitt, o primeiro mercado 100% autônomo da América Latina, no Itaim, em SP",
           "url": "https://youtu.be/RRmEI6oLmcE"
+        },
+        {
+          "titulo": "A história da Boston Dynamics e seus robôs assustadores – TecMundo",
+          "url": "https://youtu.be/ApcJva6NWjo"
         }
       ]
     },
     {
       "titulo": "Filmes",
       "cor": "orange",
-      "link_extra": {
+      "link_extra":{
         "text": "Indicação de filme",
         "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
       },
@@ -109,11 +110,31 @@
         {
           "titulo": "A teoria de tudo",
           "url": "https://youtu.be/Salz7uGp72c"
+        },
+        {
+          "titulo": "Orgulho e Preconceito",
+          "url": "https://www.youtube.com/watch?v=fJA27Jujzq4"
+        },
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Orgulho e Preconceito - Final Alternativo",
+          "url": "https://www.youtube.com/watch?v=esPY2rMsZPw"
+        },
+        {
+          "titulo": "Becoming Jane",
+          "url": "https://www.youtube.com/watch?v=qmd-ej9Hx20"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Gameificação",
       "cor": "red",
       "link_extra": {
         "text": "Indicação de jogos",
@@ -123,26 +144,6 @@
         {
           "titulo": "A gamificação no cotidiano | Ciência é Tudo",
           "url": "https://youtu.be/SC4umAAPfAs"
-        },
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
     },
@@ -159,7 +160,7 @@
           "url": "https://www.youtube.com/watch?v=mZNHO-5Ctis"
         },
         {
-          "titulo": "Vamos conhecer o arduino ?",
+          "titulo": "Vamos conhecer o arduino?",
           "url": "https://www.youtube.com/watch?v=UBkC3I2Gmgg"
         },
         {
@@ -169,19 +170,19 @@
         {
           "titulo": "Playlist brinquedos inteligentes com arduino",
           "url": "https://www.youtube.com/watch?v=3KcG4L928-Y&list=PL7CjOZ3q8fMeXU5zBJgngxxiFKaZzgFk-"
-        }    
+        },
         {
           "titulo": "Curso de Arduino para Iniciantes - Primeiros Passos",
           "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMe3KCjvLPid3xD3VvOUPdvU"
-        },
-        {
-          "titulo": "Curso de Arduino para Iniciantes: O Básico -- aprendendo na pratica",
-          "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMe6SX8XWYw85KruVXI64wA6"
-        },
-        {
-          "titulo": "Arduino do Básico ao Intermediário",
-          "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi"
-        }
+       },
+       {
+         "titulo": "Curso de Arduino para Iniciantes: O Básico - aprendendo na pratica",
+         "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMe6SX8XWYw85KruVXI64wA6"
+       },
+       {
+        "titulo": "Arduino do Básico ao Intermediário",
+        "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi"
+      }
       ]
     }
   ]
